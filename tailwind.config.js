@@ -4,6 +4,11 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {},
+    fontFamily: {
+     'display': ['Poppins'],
+     'body': ['Poppins'],
+     'sans': ['Poppins'],
+    }
   },
   variants: {
     extend: {},
